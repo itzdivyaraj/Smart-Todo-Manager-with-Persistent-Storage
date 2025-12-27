@@ -1,16 +1,28 @@
-# React + Vite
+# 📝 Smart Todo Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="648" height="419" alt="project_img" src="https://github.com/user-attachments/assets/69e32c82-db1c-4719-8ddb-5fc5a188b763" />
 
-Currently, two official plugins are available:
+A modern React-based Todo application that helps users manage daily tasks efficiently with persistent storage and a clean, intuitive UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ✅ Add, edit, and delete todos
+- 🔄 Automatically reorders tasks based on completion status
+- ✂️ Strike-through and visual feedback for completed tasks
+- 💾 Persistent storage using browser `localStorage`
+- 🗑️ “Clear All” option to reset tasks and start a new day
+- 🎯 Clear All button appears only when tasks exist
+- 🌙 Clean, dark-themed UI for better focus
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React JS**
+- **Context API** for global state management
+- **Tailwind CSS** for styling
+- **localStorage** for data persistence
+
+
