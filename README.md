@@ -1,8 +1,8 @@
 # 📝 Smart Todo Manager
 
-<img width="648" height="419" alt="project_img" src="https://github.com/user-attachments/assets/69e32c82-db1c-4719-8ddb-5fc5a188b763" />
-
 A modern React-based Todo application that helps users manage daily tasks efficiently with persistent storage and a clean, intuitive UI.
+
+<img width="648" height="419" alt="project_img" src="https://github.com/user-attachments/assets/69e32c82-db1c-4719-8ddb-5fc5a188b763" />
 
 ---
 
@@ -25,4 +25,4 @@ A modern React-based Todo application that helps users manage daily tasks effici
 - **Tailwind CSS** for styling
 - **localStorage** for data persistence
 
-
+## Live Link: https://smart-todo-manager-with-persistent.vercel.app/
